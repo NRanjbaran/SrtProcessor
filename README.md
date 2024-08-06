@@ -11,7 +11,7 @@ A Java console application that processes `.ir.srt` subtitle files in a specifie
 
 ## Prerequisites
 
-- Java Development Kit (JDK) installed on your machine.
+- Java Development Kit (JDK) 21 installed on your machine.
 
 ## Usage
 
